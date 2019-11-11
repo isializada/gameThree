@@ -13,7 +13,6 @@ continuously receive game state events and draw UI.
 
 ## How to play game
 
-There are 2 java projects
 - Generate jar files of Client and Orchestrator with following commond:
 ```$xslt
 mvn clean compile assembly:single
