@@ -1,0 +1,11 @@
+
+jsquid:S00112w"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8Œðö©å-
+Jsquid:S16120",Replace this lambda with a method reference.(£€±8œã™©å-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(Ö”¹¾ÿÿÿÿÿ8™“ÿ‘å-
+Jsquid:S16020",Remove useless curly braces around statement(£€±8œã™©å-
+hsquid:S2095 "EUse try-with-resources or close this "Channel" in a "finally" clause.(žô’Íýÿÿÿÿ8‹Êªå-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ñì¨å-
+esquid:S1126‡"AReplace this if-then-else statement by a single return statement.(¾˜ù¯ùÿÿÿÿ8Œðö©å-
+esquid:S1192F"GDefine a constant instead of duplicating this literal "answer" 3 times.(Ç´“î8‹ÔÍ©å-
+hsquid:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(žô’Íýÿÿÿÿ8‹Êªå-
+[squid:S1155+">Use isEmpty() to check whether the collection is empty or not.(ýòá08œã™©å-

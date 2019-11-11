@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e339b9db-ada7-48e9-823d-19d04d905d52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/firstApp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BITBUCKET/charging_station_service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/app/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/app/components/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstNoteApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git helper.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/ImageEffects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/react.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/java/com/imageeffects/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/index.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/index.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/index.web.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects.xcodeproj/xcshareddata/xcschemes/ImageEffects.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffects/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffectsTests/ImageEffectsTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/ios/ImageEffectsTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/AppContainer.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/AppContainer.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/AppContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/AppContainer.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Button.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Button.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Button.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/EffectsPanel.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/EffectsPanel.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/EffectsPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/EffectsPanel.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportPanel.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportPanel.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportPanel.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportedLink.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportedLink.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportedLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ExportedLink.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Field.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Field.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Field.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Flyeye.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/ImageEffects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Viewport.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Viewport.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Viewport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/Viewport.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONAL/gl-react-image-effects-master/src/uploadImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sellics_Task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_h2database_h2_1_4_186.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j_1_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_integration_spring_integration_test_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_orm_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/business_keeper_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/controller/ExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/controller/HistoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/log/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/model/ExchangeRateModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/repository/ExchangeRateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/service/ExchangeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/service/HistoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/util/ExchangeRateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/java/com/alizada/business_keeper_task/util/ExchangeRateApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/test/java/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/test/java/com/alizada/business_keeper_task/controller/ExchangeControllerIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/test/java/com/alizada/business_keeper_task/controller/HistoryControllerIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/test/java/com/alizada/business_keeper_task/service/ExchangeServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/src/test/java/com/alizada/business_keeper_task/service/HistoryServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/config/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/controller/ExchangeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/controller/HistoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/log/Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/model/ExchangeRateModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/repository/ExchangeRateRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/service/ExchangeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/service/HistoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/util/ExchangeRateApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/com/alizada/business_keeper_task/util/ExchangeRateApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/test-classes/ApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/test-classes/com/alizada/business_keeper_task/controller/ExchangeControllerIT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/test-classes/com/alizada/business_keeper_task/controller/HistoryControllerIT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/test-classes/com/alizada/business_keeper_task/service/ExchangeServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../business_keeper_task/target/test-classes/com/alizada/business_keeper_task/service/HistoryServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/exchangeRate.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/ChargingStationServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/business/StationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/business/StationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/config/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/controller/StationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/model/StationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/java/com/alizada/charging_station_service/repository/StationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/test/java/com/alizada/charging_station_service/ChargingStationServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charging_station_service/src/test/java/com/alizada/charging_station_service/controller/StationControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud_config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/.idea/artifacts/gameThree_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/exception/RabbitMqException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/model/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/rabbitmq/RabbitMqConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/rabbitmq/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/rabbitmq/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/main/java/com/alizada/resolver/PlayerResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/test/java/com/alizada/resolver/PlayerResolverUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameThree/src/test/java/com/alizada/resolver/SenderMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/exception/RabbitMqException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/model/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/RabbitMqConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alizada/resolver/GameResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/alizada/resolver/GameResolverUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/alizada/resolver/SenderMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/java/de/alizada/loan/LoanApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/java/de/alizada/loan/config/LoanConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/java/de/alizada/loan/controller/PlanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/java/de/alizada/loan/model/PlanData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/java/de/alizada/loan/model/PlanRequestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/java/de/alizada/loan/service/PlanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/test/java/de/alizada/loan/LoanApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/test/java/de/alizada/loan/controller/PlanControllerUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/test/java/de/alizada/loan/service/PlanServiceUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/test/resources/request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/src/test/resources/wrongRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/optimizer_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/OptimizerServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/cleaningPartner/request/StructureInfoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/cleaningPartner/response/OptimalEmployeesPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/cleaningPartner/service/CleaningCapacityOptimizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/controller/CleaningOptimizerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/exception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/java/com/alizada/optimizer_service/optimizer/Optimizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/test/java/com/alizada/optimizer_service/OptimizerServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/test/java/com/alizada/optimizer_service/cleaningPartner/service/CleaningCapacityOptimizerUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/test/java/com/alizada/optimizer_service/controller/CleaningOptimizerControllerRequestsUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/test/java/com/alizada/optimizer_service/controller/CleaningOptimizerControllerUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/test/resources/requests/notValid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/src/test/resources/requests/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/META-INF/optimizer_service.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/OptimizerServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/cleaningPartner/request/StructureInfoRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/cleaningPartner/response/OptimalEmployeesPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/cleaningPartner/service/CleaningCapacityOptimizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/controller/CleaningOptimizerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/exception/BadRequestException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/classes/com/alizada/optimizer_service/optimizer/Optimizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/META-INF/optimizer_service.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/com/alizada/optimizer_service/OptimizerServiceApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/com/alizada/optimizer_service/cleaningPartner/service/CleaningCapacityOptimizerUnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/com/alizada/optimizer_service/controller/CleaningOptimizerControllerRequestsUnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/com/alizada/optimizer_service/controller/CleaningOptimizerControllerUnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/requests/notValid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optimizer_service/target/test-classes/requests/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectABC" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#874#875#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/model/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/model/Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/RabbitMqConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Receiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/alizada/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Sender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/resolver/GameResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/alizada/resolver/GameResolverUnitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/alizada/resolver/SenderMock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createSender</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/service/GameService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/exception/RabbitMqException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/model/Action.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alizada/RabbitMqServiceUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/service/RabbitMqService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alizada/service/RabbitMqServiceUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/RabbitMqService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Sender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Receiver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alizada/AppTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/model/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alizada/resolver/GameResolver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alizada/resolver/SenderMock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alizada/resolver/GameResolverUnitTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+              <item name="resolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameThreeEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameThreeEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alizada" type="462c0819:PsiDirectoryNode" />
+              <item name="resolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/alizada" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.alizada.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alizada.rabbitmq" />
+      <recent name="com.alizada.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/alizada" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alizada.App" />
+      <module name="gameThreeEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alizada.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameResolverUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gameThreeEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alizada.resolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alizada.resolver" />
+      <option name="MAIN_CLASS_NAME" value="com.alizada.resolver.GameResolverUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.GameResolverUnitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e339b9db-ada7-48e9-823d-19d04d905d52" name="Default Changelist" comment="" />
+      <created>1573314448877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573314448877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 18m 34s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 21m 32s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 22m 29s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 26m 01s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 26m 59s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 28m 12s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 33m 10s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 34m 38s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 36m 20s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameResolverUnitTest - 2019.11.11 at 00h 37m 22s.xml">
+      <configuration name="GameResolverUnitTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23015873" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.24764891" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3291536" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4754441" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.11912226" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23015873" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="SonarLint" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3291536" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.5151515" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/service/GameService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/exception/RabbitMqException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alizada/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/model/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/RabbitMqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/rabbitmq/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alizada/resolver/GameResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alizada/resolver/SenderMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alizada/resolver/GameResolverUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gameThreeEngine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_171</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
