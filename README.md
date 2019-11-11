@@ -19,5 +19,5 @@ mvn clean compile assembly:single
 ```
 - Install RabbitMq (https://www.rabbitmq.com/install-homebrew.html)
 - Start RabbitMq Server (rabbitmq-server start)
-- Run Orchestrator and Clients on different terminals
+- Run jar files of Orchestrator and Clients on different terminals (java -jar file.jar)
 - Play game on terminal
